@@ -1,0 +1,40 @@
+# media files ----------------------------------------------------------------------------------------------
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.JPG
+*.JPEG
+*.PNG
+*.BMP
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.webp
+
+# unnecesary python files ----------------------------------------------------------------------------------------------
+*.pyc
+*.ipynb_checkpoints
+__pycache__
+.vscode/
+trainval.json
+annotations.json
+*.npy
+
+
+# unnecesary txt files ----------------------------------------------------------------------------------------------
+*.txt
+!requirements.txt
+*.zip
+*.log
+*.logs
+
+
+# folder starting with -----------------------------------------------------
+00_*
+01_*
+02_*
+03_*
+clodsa
+

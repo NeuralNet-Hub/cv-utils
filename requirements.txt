@@ -1,0 +1,40 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+matplotlib>=3.2.2
+numpy>=1.18.5
+pandas
+tqdm
+
+# images
+imutils
+opencv-python>=4.1.2
+
+
+# sometimes is used as numpy
+torch>=1.7.0
+torchvision>=0.8.1
+
+
+# gps coordinates
+pyserial
+
+
+# labelme -----
+labelme
+numpy
+pillow
+
+# data augmentation segmentation -----
+git+https://github.com/hdnh2006/CLoDSA.git@master#egg=clodsa
+#clodsa
+#future
+#tensorflow
+#imageio
+#tqdm-joblib
+
+# send email -----
+psutil
+
+# OCR
+easyocr
