@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="neuralnet.solutions" target="_blank">
+  <a href="http://neuralnet.solutions" target="_blank">
     <img width="450" src="assets/logo_full.png">
   </a>
 </div>
