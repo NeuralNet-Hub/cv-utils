@@ -1,7 +1,8 @@
 <div align="center">
-  <img width="450" src="assets/logo_full.png">
+  <a href="neuralnet.solutions" target="_blank">
+    <img width="450" src="assets/logo_full.png">
+  </a>
 </div>
-
 
 # Computer Vision Utilities by NeuralNet
 
