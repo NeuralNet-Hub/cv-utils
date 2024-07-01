@@ -1,6 +1,6 @@
 <div align="center">
   <a href="http://neuralnet.solutions" target="_blank">
-    <img width="450" src="assets/logo_full.png">
+    <img width="450" src="https://raw.githubusercontent.com/NeuralNet-Hub/assets/main/logo/LOGO_png_orig.png">
   </a>
 </div>
 
